@@ -20,4 +20,7 @@ class SimpleGit
     def demo(git_cmd)
     	return "study"
 
+	master
+	testing
+ 
 end
