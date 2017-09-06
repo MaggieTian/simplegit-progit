@@ -22,5 +22,6 @@ class SimpleGit
 
 	master
 	testing
+	test2
  
 end
