@@ -20,6 +20,4 @@ class SimpleGit
     def demo(git_cmd)
     	return "study"
 
-	lalall
-  
 end
